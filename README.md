@@ -13,3 +13,4 @@ write a java program for reversing an array in place
 write a java program to find the second largest element
 write a java program to create animal hierarchy with class animal sub class dog, for rabbit
 write a java program for method overriding a string where each class inherits to string from object and overriding that to see how the object can be printed
+write a java program to implement the abstraction by using shapes and two sub classes which can have the functionality in different ways
