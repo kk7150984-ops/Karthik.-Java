@@ -5,3 +5,4 @@ write a java program to for simple calculator
 write a java program to find the sum and average of an array
 write a java program for adding rows in matrix
 write a java program by using three methods of string
+write a java program by splitting a sentence into word and the rebuild it in new format. Code for fiboncci with recursion
