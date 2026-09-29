@@ -8,3 +8,4 @@ write a java program by using three methods of string
 write a java program by splitting a sentence into word and the rebuild it in new format. Code for fiboncci with recursion
 write a java program to find the largest element in array
 write a java program for selection sort and insertion sort
+write a java program for counting vowels in a string
