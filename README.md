@@ -4,3 +4,4 @@ write a java program to assign grade A for the students who have the marks above
 write a java program to for simple calculator
 write a java program to find the sum and average of an array
 write a java program for adding rows in matrix
+write a java program by using three methods of string
