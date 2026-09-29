@@ -11,3 +11,4 @@ write a java program for selection sort and insertion sort
 write a java program for counting vowels in a string
 write a java program for reversing an array in place
 write a java program to find the second largest element
+write a java program to create animal hierarchy with class animal sub class dog, for rabbit
