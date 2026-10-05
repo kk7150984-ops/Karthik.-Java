@@ -21,3 +21,4 @@ Write a java code for finding the largest element in an array
 Write a java code to create a class which can shared by two objects (student) for name and marks in a subject
 Write a java code for given an array of integers return the number of distinct absolute values among the elements of the array absolute of any value is defined as it's positive equivalent ABS(-5) = 505 MATHEMATICALLY |-5| = |5| = 1
 Write a java code to given an array of integers and an integer target print Indies of the two numbers such that the numbers add up to target you may assume that each input would have exactly one solution and you may not use the element twice you must print the answer  in ascending order if no such pair exists return [-1, 1]
+Write a java code for you are the given N string of length M count the number of anagramic groups
