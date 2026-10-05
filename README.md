@@ -19,3 +19,4 @@ Write a java code for accessing and removing elements in a linked list by using 
 Write a java code by using try, catch, finally, block for any arithmetic exception or array index out of bound exception
 Write a java code for finding the largest element in an array
 Write a java code to create a class which can shared by two objects (student) for name and marks in a subject
+Write a java code for given an array of integers return the number of distinct absolute values among the elements of the array absolute of any value is defined as it's positive equivalent ABS(-5) = 505 MATHEMATICALLY |-5| = |5| = 1
